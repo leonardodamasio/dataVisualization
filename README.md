@@ -25,4 +25,4 @@ leoleonardo1996@hotmail.com
 
 (11) 98783-3949
 
-![](https://cdn.neow.in/news/images/uploaded/2018/11/1543490314_python-for-data-science_story.jpg)
+![](https://www.columnfivemedia.com/wp-content/uploads/2018/03/How-to-use-data-visualization-report-design.png)
