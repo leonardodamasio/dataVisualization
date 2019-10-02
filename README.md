@@ -1,5 +1,5 @@
 # dataVisualization
-Programação de **_Técnicas de Visualização de Dados_** em Python.
+Programação de **_Técnicas de Visualização de Dados_** em Python e *R*.
 
 **_Leonardo Damasio_**
 
@@ -13,9 +13,11 @@ Você também encontrará as bases utilizadas para realizar cada modelo.
 
 Sendo assim, fique a vontade para testá-los :)
 
-Todos os modelos foram feitos através da linguagem *Python* no **Jupyter Lab**.
+Todos os modelos foram feitos através da linguagem *Python* e linguagem *R* no **Jupyter Lab**.
 
 Algumas das bibliotecas utilizadas foram `Pandas`, `NumPy`, `MatPlotLib` e `Seaborn`.
+
+Já em R, foi utilizada a biblioteca `lattice`.
 
 Qualquer dúvida, favor entrar em contato:
 
